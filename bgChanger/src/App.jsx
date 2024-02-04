@@ -48,7 +48,7 @@ function App() {
             </button>
             <button
               onClick={() => setColor("white")}
-              className="outline-none px-4 py-1 rounded-full text-black shadow-lg bg-white-500 hover:bg-transparent">               
+              className="outline-none px-4 py-1 rounded-full text-black shadow-lg bg-white-500">               
                 White
             </button>          
           </div>
